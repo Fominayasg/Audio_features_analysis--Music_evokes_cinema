@@ -133,3 +133,4 @@ data
 .env
 output
 pruebas
+data_to_predict
