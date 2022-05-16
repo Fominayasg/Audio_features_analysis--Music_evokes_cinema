@@ -1,7 +1,7 @@
 # Music_evokes_cinema(audio_features_analysis)
 
 
-![portada](https://github.com/Fominayasg/geospatial-data-project/blob/main/images/portada.jpg)
+![portada](/img/guitars-gb190c7313_1920.jpeg)
 
 This project has been developed in the context of Ironhack's data analysis bootcamp, and selected for the Hackshow event organized by Ironhack.
 
