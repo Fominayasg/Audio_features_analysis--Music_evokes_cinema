@@ -1,4 +1,4 @@
-# Music evokes cinema(audio_features_analysis)
+# Music evokes cinema(audio features analysis)
 #### *Can we use ML to predict what music make us feel??*
 
 ![portada](/img/guitars-gb190c7313_1920.jpeg)
@@ -22,13 +22,15 @@ The main goal of this project is to **clasify** different instrumental pieces on
 
 The repository is constructed in such a way that the complete process can be followed using the numbered notebooks in the main folder:
 
-1. Data analysis: Transformation of 
+1. Data analysis: Transformation and resampling of the data. Feature extraction and feature transformation.
+1. Model training: Neural network building and evaluation.
+1. Final model: Final model training using the settings that gave the best performance.Exporting model to a file.
+1. Cinema genre prediction: Demonstration of the model performance with new audio tracks.
 
-In the data mask, you will find the outputs with the data obtained throughout the process.
 
 # Data
 
-All the 
+All the data has been included on the .gitignore due to size restrictions in github.
 
 
 
